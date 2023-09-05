@@ -293,3 +293,30 @@ body{
 .active {
     opacity: 1;
 }
+
+.slider {
+    position: relative;
+}
+
+.swiper {
+    width: 100%;
+    height: 800px;
+    border-radius: 40px;
+    position: absolute;
+    top: 90px;
+
+  }
+
+  .swiper-slide img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-pagination-bullet-active {
+    border: 1px solid #333;
+    background: antiquewhite !important;
+  }
+
+  .about-img-container img {
+    filter: grayscale(10%)
+  }
