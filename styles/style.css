@@ -76,7 +76,6 @@ body{
 }
 
 .home-section{
-    /* previous styles */
     position: fixed;
 }
 
@@ -88,8 +87,6 @@ body{
     opacity: 1;
     z-index: 8;
 }
-
-/* project-section */
 
 .project-section{
     width: 100%;
@@ -304,7 +301,6 @@ body{
     border-radius: 40px;
     position: absolute;
     top: 90px;
-
   }
 
   .swiper-slide img {
